@@ -21,8 +21,7 @@ EV Speedometer Dashboard: A custom digital dashboard UI inspired by Ola/Uber ele
 
 </h4>
 
-
-###
+<h1>📊 GitHub Stats:</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cloudmonks-195&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -33,7 +32,7 @@ EV Speedometer Dashboard: A custom digital dashboard UI inspired by Ola/Uber ele
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+<h1>💻 Tech Stack:</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -60,7 +59,7 @@ EV Speedometer Dashboard: A custom digital dashboard UI inspired by Ola/Uber ele
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" height="30" />
 </div>
 
-###
+<h1> 🌐 Socials:</h1>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
