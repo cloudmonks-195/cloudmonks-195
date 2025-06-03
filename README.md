@@ -1,4 +1,26 @@
+<h1> 💫 About Me:</h1>
 <h2 align="left">Hi 👋! My name is Ashutosh Pandey and I'm a passionate Software Developer from India 🇮🇳</h2>
+
+<h4>I’m a passionate software developer with a deep love for technology and innovation. My journey in the tech world began with a curiosity about how things work, which eventually led me to build real-world solutions that solve problems and make an impact.
+
+🚀 Skills: I’m experienced in Flutter, Dart, Node.js, SQL, and Firebase, with a strong understanding of both front-end and back-end development. I also work extensively in embedded systems, creating hardware-software integrated solutions using platforms like Raspberry Pi, Arduino, and ESP32.
+
+🔭 Current Projects:
+
+Multi-Sensor Security System: Built using Raspberry Pi, ESP32-CAM, and various sensors like DHT11, MPU6050, and VL53L0X to provide real-time monitoring and alerts.
+
+Voice-Controlled Robot Face: A Raspberry Pi-based interactive face with servo-driven expressions and speech recognition.
+
+EV Speedometer Dashboard: A custom digital dashboard UI inspired by Ola/Uber electric scooters for real-time vehicle data visualization.
+
+🌱 Learning: Continuously upskilling in AI/ML, cloud technologies, and advanced embedded system design.
+
+🛠️ Problem Solver: I enjoy solving complex challenges, whether it’s optimizing app performance, scaling backend systems, or debugging embedded firmware and sensor communication.
+
+✨ Passionate about Open Source: I actively contribute to open-source projects and thrive in collaborative dev communities.
+
+</h4>
+
 
 ###
 
